@@ -1,8 +1,4 @@
-# Welcome To My GitHub!
-
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=LeeHaeJun9&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=LeeHaeJun9&layout=compact&theme=dracula)
-
+# Welcome To My GitHub
 ## 🙋‍♂️ Personal Info
 - Lee Hae Jun
 - jihae185@gmail.com
